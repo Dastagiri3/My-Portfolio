@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://my-digital-resume-ihme3u7wm-dastagiri3s-projects.vercel.app/
 
 ## How can I edit this code?
 
